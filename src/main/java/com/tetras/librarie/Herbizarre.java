@@ -1,4 +1,4 @@
-package com.tetras;
+package com.tetras.librarie;
 
 import java.util.Arrays;
 

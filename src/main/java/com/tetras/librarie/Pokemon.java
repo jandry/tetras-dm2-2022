@@ -1,4 +1,4 @@
-package com.tetras;
+package com.tetras.librarie;
 
 import java.util.ArrayList;
 import java.util.List;
